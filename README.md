@@ -22,4 +22,4 @@ A Full Stack Music Streaming App using **React.js**, **Node.js**, **Express**, a
   - **Frontend**: Vercel (for hosting the React app)
  
   Sample preview of website is available here -- https://spotify-clone-46lty06cv-rithvijs-projects-cd5a446b.vercel.app/
-![App Preview](./Spotify-Clone.png)
+![App Preview](./Spotify-clone.PNG)
