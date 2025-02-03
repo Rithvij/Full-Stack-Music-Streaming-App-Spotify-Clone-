@@ -20,3 +20,5 @@ A Full Stack Music Streaming App using **React.js**, **Node.js**, **Express**, a
 - **File Handling**: Multer (for uploading files)
 - **Deployment**:
   - **Frontend**: Vercel (for hosting the React app)
+ 
+  Sample preview of website is available here -- https://spotify-clone-46lty06cv-rithvijs-projects-cd5a446b.vercel.app/
